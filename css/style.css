@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    height: 80vh;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+
+img {
+    width: 500px;
+    position: relative;
+    
+}
+
+.logo {
+    margin-bottom: 20px; 
+    width: 400px; 
+    height: auto; 
+    top: 50px;
+}
+
+.Google {
+    text-align: center;
+    position: relative;
+    top: 70px;
+}
+.search {
+    margin-top: 20px; 
+    width: 400px; 
+    height: auto; 
+}
+
+h4 {
+    position: absolute;
+    top: 0px;
+}
